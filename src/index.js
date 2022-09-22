@@ -14,7 +14,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
      <LoadScript googleMapsApiKey={process.env.REACT_APP_GOOGLE_API_KEY}></LoadScript>
-    <BrowserRouter basename={`${process.env.PUBLIC_URL}/#`} history={history}>
+    <BrowserRouter basename={`${process.env.PUBLIC_URL}`} history={history}>
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/BusinessCard"   element={BusinessCard} />
