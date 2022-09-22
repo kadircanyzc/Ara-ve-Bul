@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.37e306a2.css",
-    "main.js": "/static/js/main.0265a225.js",
-    "static/js/787.24e5d6c4.chunk.js": "/static/js/787.24e5d6c4.chunk.js",
-    "static/media/3.png": "/static/media/3.dd7c08b6a7534b75ae20.png",
-    "index.html": "/index.html",
-    "main.37e306a2.css.map": "/static/css/main.37e306a2.css.map",
-    "main.0265a225.js.map": "/static/js/main.0265a225.js.map",
-    "787.24e5d6c4.chunk.js.map": "/static/js/787.24e5d6c4.chunk.js.map"
+    "main.css": "/Ara-ve-Bul/static/css/main.37e306a2.css",
+    "main.js": "/Ara-ve-Bul/static/js/main.93fdd2b3.js",
+    "static/js/787.7efd31bd.chunk.js": "/Ara-ve-Bul/static/js/787.7efd31bd.chunk.js",
+    "static/media/3.png": "/Ara-ve-Bul/static/media/3.dd7c08b6a7534b75ae20.png",
+    "index.html": "/Ara-ve-Bul/index.html",
+    "main.37e306a2.css.map": "/Ara-ve-Bul/static/css/main.37e306a2.css.map",
+    "main.93fdd2b3.js.map": "/Ara-ve-Bul/static/js/main.93fdd2b3.js.map",
+    "787.7efd31bd.chunk.js.map": "/Ara-ve-Bul/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37e306a2.css",
-    "static/js/main.0265a225.js"
+    "static/js/main.93fdd2b3.js"
   ]
 }
