@@ -1,8 +1,7 @@
 {
-  "name": "yelp-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kadircanyzc.github.io",
+  "homepage": "https://kadircanyzc.github.io/Ara-ve-Bul",
   "dependencies": {
     "-": "^0.0.1",
     "@emotion/react": "^11.9.3",
