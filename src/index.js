@@ -16,7 +16,7 @@ root.render(
      <LoadScript googleMapsApiKey={process.env.REACT_APP_GOOGLE_API_KEY}></LoadScript>
     <BrowserRouter basename={`${process.env.PUBLIC_URL}`} history={history}>
     <Routes>
-      <Route path="/Ara-ve-Bul" element={<App />} />
+      <Route path="/" element={<App />} />
       <Route path="/BusinessCard"   element={BusinessCard} />
       <Route path="/Business/:id"   element={<Business />}/>
     </Routes>
