@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/yelp-app/static/css/main.37e306a2.css",
-    "main.js": "/yelp-app/static/js/main.ef9247ff.js",
-    "static/js/787.7efd31bd.chunk.js": "/yelp-app/static/js/787.7efd31bd.chunk.js",
-    "static/media/3.png": "/yelp-app/static/media/3.dd7c08b6a7534b75ae20.png",
-    "index.html": "/yelp-app/index.html",
-    "main.37e306a2.css.map": "/yelp-app/static/css/main.37e306a2.css.map",
-    "main.ef9247ff.js.map": "/yelp-app/static/js/main.ef9247ff.js.map",
-    "787.7efd31bd.chunk.js.map": "/yelp-app/static/js/787.7efd31bd.chunk.js.map"
+    "main.css": "/Ara-ve-Bul/static/css/main.37e306a2.css",
+    "main.js": "/Ara-ve-Bul/static/js/main.f8b6783a.js",
+    "static/js/787.7efd31bd.chunk.js": "/Ara-ve-Bul/static/js/787.7efd31bd.chunk.js",
+    "static/media/3.png": "/Ara-ve-Bul/static/media/3.dd7c08b6a7534b75ae20.png",
+    "index.html": "/Ara-ve-Bul/index.html",
+    "main.37e306a2.css.map": "/Ara-ve-Bul/static/css/main.37e306a2.css.map",
+    "main.f8b6783a.js.map": "/Ara-ve-Bul/static/js/main.f8b6783a.js.map",
+    "787.7efd31bd.chunk.js.map": "/Ara-ve-Bul/static/js/787.7efd31bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.37e306a2.css",
-    "static/js/main.ef9247ff.js"
+    "static/js/main.f8b6783a.js"
   ]
 }
