@@ -7,14 +7,13 @@ import BusinessCard from './components/BusinessCard';
 import Business from './components/Business';
 import { BrowserRouter,Route,Routes } from "react-router-dom";
 import { LoadScript } from '@react-google-maps/api';
-import { createHashHistory } from "history";
-let history = createHashHistory();
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
      <LoadScript googleMapsApiKey={process.env.REACT_APP_GOOGLE_API_KEY}></LoadScript>
-    <BrowserRouter basename={`${process.env.PUBLIC_URL}`} history={history}>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <Routes>
       <Route path="/" element={<App />} />
       <Route path="/BusinessCard"   element={BusinessCard} />
