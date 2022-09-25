@@ -7,7 +7,7 @@ import TextField from "@mui/material/TextField";
 export default function SearchBar(props) {
   return (
     <div className="searchBar">
-      <div onSubmit={props.submit}>
+      <form onSubmit={props.submit}>
         <div className="search-bar">
           <div className="search-bar__files">
             <Box
@@ -55,16 +55,16 @@ export default function SearchBar(props) {
               />
             </Box>
 
-            <button className="search_bar_button">
+            <button className="search_bar_button"  type="submit" >
               <IconContext.Provider value={""}>
                 <div>
-                  <FaSearchLocation type="submit" />
+                  <FaSearchLocation/>
                 </div>
               </IconContext.Provider>
             </button>
           </div>
         </div>
-      </div>
+      </form>
     </div>
   );
 }
